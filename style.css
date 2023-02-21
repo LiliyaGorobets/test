@@ -1,0 +1,15 @@
+h1 {
+  color: grey;
+  background-color: pink;
+  border: 1px solid violet;
+}
+
+h2 {
+  color: pink;
+  background-color:grey;
+  border: 1px solid violet;
+}
+
+p {
+  color: violet;
+}
