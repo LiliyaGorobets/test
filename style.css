@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+p {
+  color: red;
+}
+
+.SVCENTER_HOMEPAGE .itimui{
+    height: 100%;
+    background: #E0F8F7; /* Старые браузеры */
+    background: -moz-radial-gradient(center, ellipse cover, #F2F2F2 1%, #E0F8F7 100%); /* FF3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(1%,#F2F2F2), color-stop(100%,#E0F8F7)); /* Chrome,Safari4+ */
+    background: -webkit-radial-gradient(center, ellipse cover,#F2F2F2 1%,#E0F8F7 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-radial-gradient(center, ellipse cover,#F2F2F2 1%,#E0F8F7 100%); /* Opera 12+ */
+    background: -ms-radial-gradient(center, ellipse cover, #F2F2F2 1%,#E0F8F7 100%); /* IE10+ */
+    background: radial-gradient(ellipse at center,#F2F2F2 1%,#E0F8F7 100%); /* W3C */
+}
+
